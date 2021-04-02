@@ -56,13 +56,13 @@ authors:
   johndoe:
     name: Kio
     bio: A Man who travels the world eating noodles
-    external-image: false
+    external-image: true
     picture: assets/images/Kio.png
     twitter: johndoe
   jamesfoster:
     name: Kio
     bio: A Man who develops software with coffee
-    external-image: false
+    external-image: true
     picture: assets/images/Kio.png
     twitter: jamesfoster
 
