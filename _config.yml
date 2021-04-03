@@ -12,8 +12,8 @@ picture: assets/images/Kio.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com
 
 url: https://sergiokopplin.github.io/indigo
@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: 
-twitter: 
-# instagram: myinstagram
+facebook: facebook
+twitter: twitt
+instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
-# youtube: myyoutube
+linkedin: linkedin
+youtube: youtube
 # spotify: myspotify
 github: Kioding
 # gitlab: mygitlab
@@ -47,10 +47,10 @@ github: Kioding
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: 
+medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: email@gmail.com
 
 authors:
   johndoe:
@@ -80,11 +80,11 @@ pagination:
   permalink: "/:num/" # pagination link that will be appended
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
+about: false
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
