@@ -41,7 +41,7 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: Kioding
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -55,13 +55,13 @@ email: myemail@gmail.com
 authors:
   johndoe:
     name: Kio
-    bio: A Man who travels the world eating noodles
+    bio: A Man who travels the world eating hamburger🍔
     external-image: true
     picture: assets/images/Kio.png
     twitter: johndoe
   jamesfoster:
     name: Kio
-    bio: A Man who develops software with coffee
+    bio: A Man who travels the world eating hamburger🍔
     external-image: true
     picture: assets/images/Kio.png
     twitter: jamesfoster
