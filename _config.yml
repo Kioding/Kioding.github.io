@@ -1,6 +1,6 @@
 # main text of home
 name: Kio
-bio: A Man who travels the world eating noodles
+bio: A Man who travels the world eating hamburger🍔
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,7 +14,7 @@ picture: assets/images/Kio.png
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://google.com
 
 url: https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
